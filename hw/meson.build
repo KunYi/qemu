@@ -67,3 +67,6 @@ subdir('sparc')
 subdir('sparc64')
 subdir('tricore')
 subdir('xtensa')
+
+# for study ref. https://mp.weixin.qq.com/s?__biz=MzkzMTk4OTIwNg==&mid=2247485019&idx=1&sn=b70b64648b7a867dfa5304a6654b9c42&chksm=c263d5e2f5145cf4ed22f04d13020e96dc4b7000d9f5ad47fd8147cb7f8ca29395a901973260&cur_album_id=4004436609855717378&scene=190#rd
+subdir('pci-test-dev')
